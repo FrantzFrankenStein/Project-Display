@@ -1,2 +1,2 @@
-# Project-Display
-Project Display
+# Project-Gallery
+Project Gallery
